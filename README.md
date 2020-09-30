@@ -6,7 +6,7 @@ This is a Node CLI that will create an .html page based upon terminal input from
 
 ### Screenshot
 <img src="./Screenshot.JPG" alt="Screenshot #1 of 2 of the Employee Summary">
-<img src="./Screenshot2.JPG" alt="Screenshot #2 of 2 of the Employee Summary">
+<img src="./Screenshot1.JPG" alt="Screenshot #2 of 2 of the Employee Summary">
 
 #### Link to Deployed Application
 [Employee Summary Github Link](https://github.com/scotwoodland/Employee_Summary_Template) is hosted on Github pages.
